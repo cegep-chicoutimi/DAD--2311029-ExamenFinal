@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen final", "Examen final\Examen final.csproj", "{408BC74D-69F6-4DC8-912D-582F566CEFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliothequeFonctionsDeBase", "..\BibliothequeFonctions\BibliothequeFonctions\BibliothequeFonctionsDeBase.csproj", "{8B0D6958-EE2B-4D3A-86FF-ACA20C790224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408BC74D-69F6-4DC8-912D-582F566CEFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408BC74D-69F6-4DC8-912D-582F566CEFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408BC74D-69F6-4DC8-912D-582F566CEFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408BC74D-69F6-4DC8-912D-582F566CEFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0D6958-EE2B-4D3A-86FF-ACA20C790224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0D6958-EE2B-4D3A-86FF-ACA20C790224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0D6958-EE2B-4D3A-86FF-ACA20C790224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0D6958-EE2B-4D3A-86FF-ACA20C790224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
